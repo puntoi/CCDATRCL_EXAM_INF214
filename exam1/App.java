@@ -19,7 +19,7 @@ public class App {
         System.out.println(surname[0]);
 
         // 4. Print the last character of your SURNAME.
-        System.out.println(surname[8]);
+        System.out.println(surname[6]);
 
         // 5. Print the character of your SURNAME in reverse order.
         for (int i = surname.length - 1; i >= 0; i--) {
